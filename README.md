@@ -357,10 +357,6 @@ I'm interested in collaborating on:
 
 # 🌎 Let's Connect
 
-### 🌐 Portfolio
-
-**https://amritainfovision.com**
-
 ### 💼 Upwork
 
 **https://www.upwork.com/freelancers/~01efd6e00a9d4e737a**
@@ -375,7 +371,7 @@ I'm interested in collaborating on:
 
 For software development, mobile applications, web platforms, AI automation, or technical collaboration:
 
-**Email:** [info@amritainfovision.com](mailto:info@amritainfovision.com)
+**Email:** [vikash_raz@yahoo.co.in](mailto:vikash_raz@yahoo.co.in)
 
 ---
 
